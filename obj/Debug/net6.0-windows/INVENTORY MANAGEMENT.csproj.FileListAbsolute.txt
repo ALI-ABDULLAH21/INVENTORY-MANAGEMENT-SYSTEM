@@ -1,0 +1,36 @@
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\INVENTORY MANAGEMENT.exe
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\INVENTORY MANAGEMENT.deps.json
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\INVENTORY MANAGEMENT.runtimeconfig.json
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\INVENTORY MANAGEMENT.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\INVENTORY MANAGEMENT.pdb
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form1.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.csproj.GenerateResource.cache
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.AssemblyInfo.cs
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.csproj.CopyComplete
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\refint\INVENTORY MANAGEMENT.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.pdb
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY MANAGEMENT.genruntimeconfig.cache
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\ref\INVENTORY MANAGEMENT.dll
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form2.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form3.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form4.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form10.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form11.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form12.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form5.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form6.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form7.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Form8.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.ADD.resources
+C:\Users\malik\source\repos\INVENTORY MANAGEMENT\obj\Debug\net6.0-windows\INVENTORY_MANAGEMENT.Properties.Resources.resources
